@@ -13,8 +13,8 @@
 
 ## Установка / Install
 
-- **Windows**: скачай и запусти **[clop Setup 2.2.0.exe](clop%20Setup%202.2.0.exe)**
-- **Linux**: скачай [clop-2.2.0.tar.gz](../../releases/download/v2.2.0/clop-2.2.0.tar.gz), распакуй и запусти `./clop`
+- **Windows**: скачай и запусти **[clop Setup 2.3.0.exe](clop%20Setup%202.3.0.exe)**
+- **Linux**: скачай [clop-2.3.0.tar.gz](../../releases/download/v2.3.0/clop-2.3.0.tar.gz), распакуй и запусти `./clop`
 
 Свежие версии — в [Releases](../../releases).
 
