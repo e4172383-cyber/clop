@@ -28,7 +28,7 @@
     "publish": [
       {
         "provider": "github",
-        "owner": "miks",
+        "owner": "e4172383-cyber",
         "repo": "clop"
       }
     ],
